@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there! 👋
+
+#  I'm Rose Anne Gito, previously fond of backend development, now turned full-stack enthusiast! Not only that, I also thrive in situations that calls for leaderships!
+
 
 <!--
 **Rosie04102003/Rosie04102003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
