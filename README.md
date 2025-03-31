@@ -1,12 +1,31 @@
 ## Hi there! 👋
 
-I'm Rose Anne Gito, previously fond of backend development, now turned full-stack enthusiast! Not only that, I also thrive in situations that calls for leaderships! I work with both web development and mobile development platforms, and my new knowledge as of writing is Flutter :)
+🌹 I'm Rose Anne Gito, previously fond of backend development, now turned full-stack enthusiast! Not only that, I also thrive in situations that call for leaderships! I work with both web development and mobile development platforms, and my new knowledge as of writing is Flutter :)
 
-## Hands-on Experiences in:
-☆ Java, Spring Boot
-☆ Javascript, Vuejs & Reactjs
-☆ C#, .NET
-☆ SQL
+### 😎 Hands-on Experiences in:
+- Java, Spring Boot, Vaadin
+- Javascript, Vuejs & Reactjs
+- C#, .NET
+- SQL
+- Python
+- Firebase Firestore, Storage, Authentication
+- HTML & CSS
+
+### 🔬 Familiar tools:
+- Jira
+- Postman
+- Github, Bitbucket
+- Notion
+
+### 🎮 Game Engines
+- Unity
+- Godot
+
+### 📩 Message me in:
+ - Viber: +639606950681
+ - LinkedIn: https://www.linkedin.com/in/rose-anne-gito-8b888531b/
+
+
 
 
 
