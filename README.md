@@ -1,6 +1,14 @@
 ## Hi there! 👋
 
-#  I'm Rose Anne Gito, previously fond of backend development, now turned full-stack enthusiast! Not only that, I also thrive in situations that calls for leaderships!
+I'm Rose Anne Gito, previously fond of backend development, now turned full-stack enthusiast! Not only that, I also thrive in situations that calls for leaderships! I work with both web development and mobile development platforms, and my new knowledge as of writing is Flutter :)
+
+## Hands-on Experiences in:
+☆ Java, Spring Boot
+☆ Javascript, Vuejs & Reactjs
+☆ C#, .NET
+☆ SQL
+
+
 
 
 <!--
