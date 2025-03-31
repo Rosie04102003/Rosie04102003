@@ -5,6 +5,7 @@
 ### 😎 Hands-on Experiences in:
 - Java, Spring Boot, Vaadin
 - Javascript, Vuejs & Reactjs
+- Flutter/Dart
 - C#, .NET
 - SQL
 - Python
@@ -21,7 +22,7 @@
 - Unity
 - Godot
 
-### 📩 Message me in:
+## 📩 Message me in:
  - Viber: +639606950681
  - LinkedIn: https://www.linkedin.com/in/rose-anne-gito-8b888531b/
 
